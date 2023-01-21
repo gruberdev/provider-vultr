@@ -1,0 +1,1 @@
+{"terraform":[{"required_providers":[{"provider":{"source":"vultr/vultr","version":"2.12.0"}}],"required_version":"1.3.3"}]}
